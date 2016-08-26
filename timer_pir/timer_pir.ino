@@ -2,7 +2,8 @@
  * Programa para el cuartito de Papa
  * 
  * Tiempo de 10 minutos sin movimiento
- * se apaga todo, si se mueve se enciende de nuevo
+ * se apaga todo, si se mueve durante la luz encendida 
+ * se activa de nuevo el timer de apagado
  * 
  * Zacaruca Software 25/08/2016
  * 
