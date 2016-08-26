@@ -6,7 +6,7 @@
  * 
  * Zacaruca Software 25/08/2016
  * 
- * Version 1 Estable
+ * Version 1 Estable + git
  */
 #include <TimeLib.h>
 #include <TimeAlarms.h>
